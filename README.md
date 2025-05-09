@@ -15,7 +15,7 @@ A minimal and responsive Todo App built with React, using custom hooks and local
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-daily-wins.git
+git clone https://github.com/Cleshy/react-todo-localStorage.git
 cd your-daily-wins
 ```
 
